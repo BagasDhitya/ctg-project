@@ -68,7 +68,7 @@ npm install
 ### Run simulator
 
 ```bash
-node server.js
+npm run start
 ```
 
 You should see:
