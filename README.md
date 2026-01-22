@@ -1,8 +1,3 @@
-Siap 👍
-Ini versi **Markdown (`README.md`)** yang sudah rapi, konsisten, dan siap langsung dipakai di GitHub / GitLab.
-
----
-
 ```md
 # CTG WebSocket Simulator + React Native (Expo)
 
