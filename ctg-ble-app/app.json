@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "ctg-ble-app",
+    "slug": "ctg-ble-app",
+    "plugins": [],
+    "android": {
+      "permissions": [
+        "BLUETOOTH",
+        "BLUETOOTH_ADMIN",
+        "BLUETOOTH_SCAN",
+        "BLUETOOTH_CONNECT",
+        "ACCESS_FINE_LOCATION",
+        "BLUETOOTH",
+        "BLUETOOTH_ADMIN",
+        "BLUETOOTH_SCAN",
+        "BLUETOOTH_CONNECT",
+        "ACCESS_FINE_LOCATION"
+      ],
+      "package": "com.bagasdtf.ctgbleapp"
+    },
+    "ios": {
+      "infoPlist": {
+        "NSBluetoothAlwaysUsageDescription": "App needs BLE to connect CTG device"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a903b458-0a27-4fb1-804c-4bfddd64a5cf"
+      }
+    }
+  }
+}
