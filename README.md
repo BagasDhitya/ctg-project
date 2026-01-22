@@ -223,16 +223,3 @@ Reason: serverless environment does not support long-lived WebSocket connections
 
 This simulator is for **development and testing only**.
 It is **NOT intended for medical diagnosis or clinical use**.
-
-```
-
----
-
-Kalau mau, aku bisa:
-- bikinin **diagram arsitektur SVG**
-- tambahin **API spec / message schema**
-- bikin **Docker + deploy guide**
-- sederhanain jadi **monorepo**
-
-Tinggal bilang ✨
-```
